@@ -1,1 +1,1 @@
-# live-weather-dashbord
+# live-weather-dashboard
